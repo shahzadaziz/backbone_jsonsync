@@ -1,0 +1,915 @@
+{
+    "children": [
+        {
+            "leaf": false,
+            "text": "Deal Zone",
+            "configuration": {
+                "module_uuid": "91da4b1a-0ae0-4801-93d5-a56c0f62e9c7",
+                "module_type": "web",
+                "module_root": true,
+                "module_xtype": "panel",
+                "module_class": "dealzone2.view.mainView"
+            },
+            "children": [
+                {
+                    "leaf": true,
+                    "text": "Featured Products",
+                    "properties": [
+                        {
+                            "Property": "nav_title",
+                            "Text": "Nav Title",
+                            "Value": "DEAL ZONE"
+                        },
+                        {
+                            "Property": "title",
+                            "Text": "Inner Title",
+                            "Value": "FEATURED DEALS"
+                        },
+                        {
+                            "Text": "Custom CSS",
+                            "Property": "custom_css",
+                            "Value": "",
+                            "Type": "resource"
+                        },
+                        {
+                            "Property": "feedURL",
+                            "Text": "Feed URL",
+                            "Value": "http://internalUser:int3rnalus3r@engageengine.ihvweb6.com/recommendation-engine-web"
+                        },
+                        {
+                            "Property": "feedInstID",
+                            "Text": "Feed Instance ID",
+                            "Value": "228"
+                        },
+                        {
+                            "Property": "feedImplID",
+                            "Text": "Feed Implementation ID",
+                            "Value": "315"
+                        },
+                        {
+                            "Property": "margins",
+                            "Text": "Margins",
+                            "Value": "0px 0px 0px 0px"
+                        },
+                        {
+                            "Property": "padding",
+                            "Text": "Padding",
+                            "Value": "15px"
+                        },
+                        {
+                            "Property": "backgroundColor",
+                            "Text": "Background Color",
+                            "Value": "#eaeaea"
+                        },
+                        {
+                            "Property": "backgroundImage",
+                            "Text": "Background Image",
+                            "Type": "resource",
+                            "Value": "com/ihi/builder/dealzone2/resource/images/bg_resource_center_expando.png"
+                        },
+                        {
+                            "Property": "backgroundSize",
+                            "Text": "Background Size",
+                            "Value": ""
+                        },
+                        {
+                            "Property": "backgroundRepeat",
+                            "Text": "Background Repeat",
+                            "Value": "repeat"
+                        },
+                        {
+                            "Property": "fsMargin",
+                            "Text": "First Section Margin",
+                            "Value": "0 0 0 0"
+                        },
+                        {
+                            "Property": "fsHeight",
+                            "Text": "First Section Height",
+                            "Value": 150
+                        },
+                        {
+                            "Property": "ssMargin",
+                            "Text": "Second Section Margin",
+                            "Value": "0 0 0 0"
+                        },
+                        {
+                            "Property": "ssHeight",
+                            "Text": "Second Section Height",
+                            "Value": 210
+                        },
+                        {
+                            "Property": "titleFontSize",
+                            "Text": "Title Font Size",
+                            "Value": "18px"
+                        },
+                        {
+                            "Property": "titleFontFamily",
+                            "Text": "Title Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "titleFontWeight",
+                            "Text": "Title Font Weight",
+                            "Value": "bold"
+                        },
+                        {
+                            "Property": "titleTextTransform",
+                            "Text": "Title Text Transform",
+                            "Value": "none"
+                        },
+                        {
+                            "Property": "titleColor",
+                            "Text": "Title Color",
+                            "Value": "white"
+                        },
+                        {
+                            "Property": "titleMargins",
+                            "Text": "Title Margins",
+                            "Value": "0 0 10px 0"
+                        },
+                        {
+                            "Property": "featuredProductBorderColor",
+                            "Text": "Featured Product Border Color",
+                            "Value": "#ccc"
+                        },
+                        {
+                            "Property": "featuredProductBorderWidth",
+                            "Text": "Featured Product Border Width",
+                            "Value": 3
+                        },
+                        {
+                            "Property": "featuredProductBackgroundColor",
+                            "Text": "Featured Product Background Color",
+                            "Value": "#fff"
+                        },
+                        {
+                            "Property": "featuredProductTitleFontSize",
+                            "Text": "Featured Product Title Font Size",
+                            "Value": "10px"
+                        },
+                        {
+                            "Property": "featuredProductTitleFontFamily",
+                            "Text": "Featured Product Title Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "featuredProductTitleFontWeight",
+                            "Text": "Featured Product Tile Font Weight",
+                            "Value": "bold"
+                        },
+                        {
+                            "Property": "featuredProductTitleColor",
+                            "Text": "Featured Product Title Color",
+                            "Value": "#333"
+                        },
+                        {
+                            "Property": "featuredProductTitleLineHeight",
+                            "Text": "Featured Product Title Line Height",
+                            "Value": "12px"
+                        },
+                        {
+                            "Property": "featuredProductOriginalPriceFontFamily",
+                            "Text": "Featured Product Original Price Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "featuredProductOriginalPriceFontSize",
+                            "Text": "Featured Product Original Price Font Size",
+                            "Value": "10px"
+                        },
+                        {
+                            "Property": "featuredProductOriginalPriceFontWeight",
+                            "Text": "Featured Product Original Price Font Weight",
+                            "Value": "normal"
+                        },
+                        {
+                            "Property": "featuredProductOriginalPriceColor",
+                            "Text": "Featured Product Original Price Color",
+                            "Value": "#666"
+                        },
+                        {
+                            "Property": "featuredProductOriginalPriceText",
+                            "Text": "Featured Product Original Price Text",
+                            "Value": "Original Price:"
+                        },
+                        {
+                            "Property": "featuredProductYourPriceFontFamily",
+                            "Text": "Featured Product Your Price Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "featuredProductYourPriceFontSize",
+                            "Text": "Featured Product Your Price Font Size",
+                            "Value": "10px"
+                        },
+                        {
+                            "Property": "featuredProductYourPriceFontWeight",
+                            "Text": "Featured Product Your Price Font Weight",
+                            "Value": "bold"
+                        },
+                        {
+                            "Property": "featuredProductYourPriceColor",
+                            "Text": "Featured Product Your Price Color",
+                            "Value": "#0562A1"
+                        },
+                        {
+                            "Property": "featuredProductYourPriceText",
+                            "Text": "Featured Product Your Price Text",
+                            "Value": "Your Price:"
+                        },
+                        {
+                            "Property": "moreProductsTitleFontSize",
+                            "Text": "More Products Title Font Size",
+                            "Value": "14px"
+                        },
+                        {
+                            "Property": "moreProductsTitleFontFamily",
+                            "Text": "More Products Title Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "moreProductsTitleFontWeight",
+                            "Text": "More Products Title Font Weight",
+                            "Value": "bold"
+                        },
+                        {
+                            "Property": "moreProductsTitleTextTransform",
+                            "Text": "More Products Title Text Transform",
+                            "Value": "uppercase"
+                        },
+                        {
+                            "Property": "moreProductsTitleColor",
+                            "Text": "More Products Title Color",
+                            "Value": "#333"
+                        },
+                        {
+                            "Property": "moreProductsTitleText",
+                            "Text": "More Products Title Text",
+                            "Value": "More Products to Consider",
+                            "Comment":"This feild has a limit of 70 characters"
+                        },
+                        {
+                            "Property": "moreProductBorderColor",
+                            "Text": "More Product Border Color",
+                            "Value": "#ccc"
+                        },
+                        {
+                            "Property": "moreProductBorderWidth",
+                            "Text": "More Product Border Width",
+                            "Value": 1
+                        },
+                        {
+                            "Property": "moreProductBackgroundColor",
+                            "Text": "More Product Background Color",
+                            "Value": "#fff"
+                        },
+                        {
+                            "Property": "moreProductTitleFontSize",
+                            "Text": "More Product Title Font Size",
+                            "Value": "10px"
+                        },
+                        {
+                            "Property": "moreProductTitleFontFamily",
+                            "Text": "More Product Title Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "moreProductTitleFontWeight",
+                            "Text": "More Product Tile Font Weight",
+                            "Value": "bold"
+                        },
+                        {
+                            "Property": "moreProductTitleColor",
+                            "Text": "More Product Title Color",
+                            "Value": "#333"
+                        },
+                        {
+                            "Property": "moreProductTitleLineHeight",
+                            "Text": "More Product Title Line Height",
+                            "Value": "12px"
+                        },
+                        {
+                            "Property": "moreProductOriginalPriceFontFamily",
+                            "Text": "More Product Original Price Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "moreProductOriginalPriceFontSize",
+                            "Text": "More Product Original Price Font Size",
+                            "Value": "10px"
+                        },
+                        {
+                            "Property": "moreProductOriginalPriceFontWeight",
+                            "Text": "More Product Original Price Font Weight",
+                            "Value": "normal"
+                        },
+                        {
+                            "Property": "moreProductOriginalPriceColor",
+                            "Text": "More Product Original Price Color",
+                            "Value": "#666"
+                        },
+                        {
+                            "Property": "moreProductOriginalPriceText",
+                            "Text": "More Product Original Price Text",
+                            "Value": "Original Price:"
+                        },
+                        {
+                            "Property": "moreProductYourPriceFontFamily",
+                            "Text": "More Product Your Price Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "moreProductYourPriceFontSize",
+                            "Text": "More Product Your Price Font Size",
+                            "Value": "10px"
+                        },
+                        {
+                            "Property": "moreProductYourPriceFontWeight",
+                            "Text": "More Product Your Price Font Weight",
+                            "Value": "bold"
+                        },
+                        {
+                            "Property": "moreProductYourPriceColor",
+                            "Text": "More Product Your Price Color",
+                            "Value": "#0562A1"
+                        },
+                        {
+                            "Property": "moreProductYourPriceText",
+                            "Text": "More Product Your Price Text",
+                            "Value": "Your Price:"
+                        },
+                        {
+                            "Property": "viewDetailsText",
+                            "Text": "View Details Text",
+                            "Value": "View Details"
+                        },
+                        {
+                            "Property": "buyNowText",
+                            "Text": "Buy Now Text",
+                            "Value": "Buy Now"
+                        },
+                        {
+                            "Property": "buttonFontFamily",
+                            "Text": "Button Font Family",
+                            "Value": "Arial, sans-serif"
+                        },
+                        {
+                            "Property": "buttonFontSize",
+                            "Text": "Button Font Size",
+                            "Value": "10px"
+                        },
+                        {
+                            "Property": "buttonFontWeight",
+                            "Text": "Button Font Weight",
+                            "Value": "bold"
+                        },
+                        {
+                            "Property": "buttonTextTransform",
+                            "Text": "Button Text Transform",
+                            "Value": "uppercase"
+                        },
+                        {
+                            "Property": "btnText",
+                            "Text": "B Button Text",
+                            "Value": "View All Deals"
+                        },
+                        {
+                            "Property": "btnUrl",
+                            "Text": "B Button Url",
+                            "Value": "http://www.bestbuy.ca/en-CA/product/acer-acer-aspire-desktop-computer-featuring-intel-core-i7-2600-processor-am3970-eb12p-am3970-eb12p/10190543.aspx"
+                        },
+                        {
+                            "Property": "btnWidth",
+                            "Text": "B Button Width",
+                            "Value": "400px"
+                        },
+                        {
+                            "Property": "btnHeight",
+                            "Text": "B Button Height",
+                            "Value": "30px"
+                        },
+                        {
+                            "Property": "btnPadding",
+                            "Text": "B Button Padding",
+                            "Value": "8px 40px"
+                        },
+                        {
+                            "Property": "btnMargin",
+                            "Text": "B Button Margin",
+                            "Value": "10px"
+                        },
+                        {
+                            "Property": "ndMessage",
+                            "Text": "No-Deals Message",
+                            "Value": "There are no deals at this moment."
+                        },
+                        {
+                            "Property": "ndMargin",
+                            "Text": "No-Deals Cont Margin",
+                            "Value": "5px 5px"
+                        },
+                        {
+                            "Property": "ndPadding",
+                            "Text": "No-Deals Cont Padding",
+                            "Value": "0px 0px"
+                        },
+                        {
+                            "Property": "ndHeight",
+                            "Text": "No-Deals Cont Height",
+                            "Value": "100px"
+                        },
+                        {
+                            "Property": "ndStyle",
+                            "Text": "No-Deals Style",
+                            "Value": ""
+                        }
+                    ]
+                },
+                {
+                    "leaf": true,
+                    "configuration": {
+                        "module_uuid": "caf93108-dbfd-40e6-856a-496a7b4a8108",
+                        "module_type": "web",
+                        "module_root": true,
+                        "module_xtype": "Panel",
+                        "module_class": "buyingguide.productdetails1.view.ProductDetails"
+                    }
+                },
+                {
+                    "children": [
+                        {
+                            "leaf": false,
+                            "text": "Product Details Popup",
+                            "configuration": {
+                                "module_uuid": "caf93108-dbfd-40e6-856a-496a7b4a8108",
+                                "module_type": "web",
+                                "module_root": true,
+                                "module_xtype": "Panel",
+                                "module_class": "buyingguide.productdetails1.view.ProductDetails"
+                            },
+                            "properties": [
+                                {
+                                    "Text": "Width",
+                                    "Property": "width",
+                                    "Value": "700"
+                                },
+                                {
+                                    "Text": "Height",
+                                    "Property": "height",
+                                    "Value": "385"
+                                },
+                                {
+                                    "Text": "X-Position",
+                                    "Property": "xpos",
+                                    "Value": "5"
+                                },
+                                {
+                                    "Text": "Y-Position",
+                                    "Property": "ypos",
+                                    "Value": "5"
+                                },
+                                {
+                                    "Text": "Background Color",
+                                    "Property": "bgColor",
+                                    "Value": "#f5f5f5"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "leaf": true,
+                                    "text": "Close Button",
+                                    "properties": [
+                                        {
+                                            "Text": "Width",
+                                            "Property": "width",
+                                            "Value": "30"
+                                        },
+                                        {
+                                            "Text": "Height",
+                                            "Property": "height",
+                                            "Value": "30"
+                                        },
+                                        {
+                                            "Text": "Top Margin",
+                                            "Property": "topMargin",
+                                            "Value": "2"
+                                        },
+                                        {
+                                            "Text": "Right Margin",
+                                            "Property": "rightMargin",
+                                            "Value": "2"
+                                        },
+                                        {
+                                            "Text": "Image Source",
+                                            "Property": "imgSrc",
+                                            "Type": "resource",
+                                            "Value": "com/ihi/builder/buyingguide/productdetails1/app/view/resources/images/close-btn.png"
+                                        },
+                                        {
+                                            "Text": "Hover Image Source",
+                                            "Property": "hvrImgSrc",
+                                            "Type": "resource",
+                                            "Value": "com/ihi/builder/buyingguide/productdetails1/app/view/resources/images/close-active.png"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "leaf": true,
+                                    "text": "Header",
+                                    "properties": [
+                                        {
+                                            "Text": "Height",
+                                            "Property": "height",
+                                            "Value": "47"
+                                        },
+                                        {
+                                            "Text": "Padding",
+                                            "Property": "padding",
+                                            "Value": "15 10 15 10"
+                                        },
+                                        {
+                                            "Text": "Header Text",
+                                            "Property": "headerTxt",
+                                            "Value": "PRODUCT DETAILS"
+                                        },
+                                        {
+                                            "Text": "Font Size",
+                                            "Property": "fontSize",
+                                            "Value": "15px"
+                                        },
+                                        {
+                                            "Text": "Font Weight",
+                                            "Property": "fontWeight",
+                                            "Value": "bold"
+                                        },
+                                        {
+                                            "Text": "Font Color",
+                                            "Property": "fontColor",
+                                            "Value": "#990000"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "leaf": false,
+                                    "text": "Tab Panel",
+                                    "properties": [
+                                        {
+                                            "Text": "Margin",
+                                            "Property": "margin",
+                                            "Value": "0 0 0 0"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "leaf": false,
+                                            "text": "Summary Panel",
+                                            "properties": [
+                                                {
+                                                    "Text": "Tab Header Text",
+                                                    "Property": "tabHdrTxt",
+                                                    "Value": "Summary"
+                                                },
+                                                {
+                                                    "Text": "Height",
+                                                    "Property": "height",
+                                                    "Value": "293"
+                                                },
+                                                {
+                                                    "Text": "Padding",
+                                                    "Property": "padding",
+                                                    "Value": "20 20 20 20"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "leaf": true,
+                                                    "text": "Media Panel",
+                                                    "properties": [
+                                                        {
+                                                            "Text": "Media Source",
+                                                            "Property": "src",
+                                                            "Type": "resource",
+                                                            "Value": "http://www.bestbuy.ca/multimedia/Products/300x300/101/10174/10174764.jpg"
+                                                        },
+                                                        {
+                                                            "Text": "Width",
+                                                            "Property": "width",
+                                                            "Value": "200"
+                                                        },
+                                                        {
+                                                            "Text": "Height",
+                                                            "Property": "height",
+                                                            "Value": "175"
+                                                        },
+                                                        {
+                                                            "Text": "Margin",
+                                                            "Property": "margin",
+                                                            "Value": "0 0 0 0"
+                                                        },
+                                                        {
+                                                            "Text": "Border Width",
+                                                            "Property": "borderWidth",
+                                                            "Value": "0.5em"
+                                                        },
+                                                        {
+                                                            "Text": "Border Type",
+                                                            "Property": "borderType",
+                                                            "Value": "solid"
+                                                        },
+                                                        {
+                                                            "Text": "Border Color",
+                                                            "Property": "borderClr",
+                                                            "Value": "#DDDDDE"
+                                                        },
+                                                        {
+                                                            "Text": "Href",
+                                                            "Property": "href",
+                                                            "Value": "http://www.bestbuy.ca/en-CA/product/cyberpowerpc-cyberpowerpc-gamer-xtreme-computer-featuring-intel-sandy-bridge-core-i5-2500k-gxi220-english-gxi220/10170686.aspx"
+                                                        },
+                                                        {
+                                                            "Text": "Anchor Target",
+                                                            "Property": "anchorTrg",
+                                                            "Type": "multiselect",
+                                                            "Selectors": [
+                                                                {
+                                                                    "Multiselect": "_blank"
+                                                                },
+                                                                {
+                                                                    "Multiselect": "_top"
+                                                                },
+                                                                {
+                                                                    "Multiselect": "_parent"
+                                                                },
+                                                                {
+                                                                    "Multiselect": "_self"
+                                                                }
+                                                            ],
+                                                            "Value": "_blank"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "leaf": false,
+                                                    "text": "Details Panel",
+                                                    "properties": [
+                                                        {
+                                                            "Text": "Margin",
+                                                            "Property": "margin",
+                                                            "Value": "0 0 0 10"
+                                                        }
+                                                    ],
+                                                    "children": [
+                                                        {
+                                                            "leaf": true,
+                                                            "text": "Contents Panel",
+                                                            "properties": [
+                                                                {
+                                                                    "Text": "Height",
+                                                                    "Property": "height",
+                                                                    "Value": "120"
+                                                                },
+                                                                {
+                                                                    "Text": "Padding",
+                                                                    "Property": "padding",
+                                                                    "Value": "0 5 0 5"
+                                                                },
+                                                                {
+                                                                    "Text": "Product Description",
+                                                                    "Property": "prodDecrpTxt",
+                                                                    "Value": "Sony VAIO - 15.5 - 2nd Gen Intel Core i5 - i5-2410M - 2.3 GHz - 6 GB - 640 GB - Pink"
+                                                                },
+                                                                {
+                                                                    "Text": "Customer Rating Text",
+                                                                    "Property": "customerRatingTxt",
+                                                                    "Value": "Customer Rating: "
+                                                                },
+                                                                {
+                                                                    "Text": "Customer Rating Text Font Color",
+                                                                    "Property": "customerRatingTxtFontClr",
+                                                                    "Value": "#666666"
+                                                                },
+                                                                {
+                                                                    "Text": "Customer Rating Text Font Size",
+                                                                    "Property": "customerRatingTxtFontSize",
+                                                                    "Value": "11"
+                                                                },
+                                                                {
+                                                                    "Text": "Rating Font Size",
+                                                                    "Property": "ratingFontSize",
+                                                                    "Value": "12"
+                                                                },
+                                                                {
+                                                                    "Text": "Rating Font Weight",
+                                                                    "Property": "ratingFontWeight",
+                                                                    "Value": "bold"
+                                                                },
+                                                                {
+                                                                    "Text": "Rating Value",
+                                                                    "Property": "ratingVal",
+                                                                    "Value": "4"
+                                                                },
+                                                                {
+                                                                    "Text": "Rating Image Source",
+                                                                    "Property": "ratingImgSrc",
+                                                                    "Type": "resource",
+                                                                    "Value": "http://staging-bg-media.ihvweb8.com/instance/217/implementation/302/4-rating.png"
+                                                                },
+                                                                {
+                                                                    "Text": "Product Price Text",
+                                                                    "Property": "prodPriceTxt",
+                                                                    "Value": "Price: "
+                                                                },
+                                                                {
+                                                                    "Text": "Product Price",
+                                                                    "Property": "prodPrice",
+                                                                    "Value": "$889.99"
+                                                                },
+                                                                {
+                                                                    "Text": "Product Price Font Color",
+                                                                    "Property": "prodPriceTxtFontClr",
+                                                                    "Value": "#0562A1"
+                                                                },
+                                                                {
+                                                                    "Text": "Product Price Font Size",
+                                                                    "Property": "prodPriceTxtFontSize",
+                                                                    "Value": "16"
+                                                                },
+                                                                {
+                                                                    "Text": "Product Price Font Weight",
+                                                                    "Property": "prodPriceTxtFontWeight",
+                                                                    "Value": "bold"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "leaf": false,
+                                                            "text": "Left Pane Buttons",
+                                                            "children": [
+                                                                {
+                                                                    "leaf": true,
+                                                                    "text": "Buy Now Button",
+                                                                    "properties": [
+                                                                        {
+                                                                            "Text": "Text",
+                                                                            "Property": "btnTxt",
+                                                                            "Value": "Buy Now"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Font Color",
+                                                                            "Property": "fontClr",
+                                                                            "Value": "#fff"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Font Size",
+                                                                            "Property": "fontSize",
+                                                                            "Value": "11px"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Font Weight",
+                                                                            "Property": "fontWeight",
+                                                                            "Value": "normal"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Height",
+                                                                            "Property": "height",
+                                                                            "Value": "41"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Width",
+                                                                            "Property": "width",
+                                                                            "Value": "183"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Margin",
+                                                                            "Property": "margin",
+                                                                            "Value": "0 0 0 0"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Background Image Source",
+                                                                            "Property": "bgImgSrc",
+                                                                            "Type": "resource",
+                                                                            "Value": "com/ihi/builder/buyingguide/productdetails1/app/view/resources/images/buy-now.png"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Hover Background Image Source",
+                                                                            "Property": "hvrBgImgSrc",
+                                                                            "Type": "resource",
+                                                                            "Value": "com/ihi/builder/buyingguide/productdetails1/app/view/resources/images/buy-now-hover.png"
+                                                                        },
+                                                                        {
+                                                                            "Text": "HREF",
+                                                                            "Property": "href",
+                                                                            "Value": "http://www.bestbuy.ca/en-CA/product/sony-sony-vaio-15-5-laptop-featuring-intel-core-i5-2410m-vpccb27fdp-pink-vpccb27fdp/10174764.aspx"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "leaf": true,
+                                                                    "text": "Print Details Button",
+                                                                    "properties": [
+                                                                        {
+                                                                            "Text": "Text",
+                                                                            "Property": "btnTxt",
+                                                                            "Value": "Print Details"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Font Color",
+                                                                            "Property": "fontClr",
+                                                                            "Value": "#fff"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Font Size",
+                                                                            "Property": "fontSize",
+                                                                            "Value": "11px"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Font Weight",
+                                                                            "Property": "fontWeight",
+                                                                            "Value": "normal"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Height",
+                                                                            "Property": "height",
+                                                                            "Value": "29"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Width",
+                                                                            "Property": "width",
+                                                                            "Value": "183"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Margin",
+                                                                            "Property": "margin",
+                                                                            "Value": "10 0 0 0"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Background Image Source",
+                                                                            "Property": "bgImgSrc",
+                                                                            "Type": "resource",
+                                                                            "Value": "com/ihi/builder/buyingguide/productdetails1/app/view/resources/images/print-detail.png"
+                                                                        },
+                                                                        {
+                                                                            "Text": "Hover Background Image Source",
+                                                                            "Property": "hvrBgImgSrc",
+                                                                            "Type": "resource",
+                                                                            "Value": "com/ihi/builder/buyingguide/productdetails1/app/view/resources/images/print-detail-hover.png"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "leaf": true,
+                                            "text": "Specifications Panel",
+                                            "properties": [
+                                                {
+                                                    "Text": "Tab Header Text",
+                                                    "Property": "tabHdrTxt",
+                                                    "Value": "Specifictions"
+                                                },
+                                                {
+                                                    "Text": "Height",
+                                                    "Property": "height",
+                                                    "Value": "293"
+                                                },
+                                                {
+                                                    "Text": "Header Text Align",
+                                                    "Property": "hdrTxtAlign",
+                                                    "Value": "center"
+                                                },
+                                                {
+                                                    "Text": "Spec Text Font Color",
+                                                    "Property": "specTxtFontClr",
+                                                    "Value": "#0562A1"
+                                                },
+                                                {
+                                                    "Text": "Spec Text Font Weight",
+                                                    "Property": "specTxtFontWeight",
+                                                    "Value": "bold"
+                                                },
+                                                {
+                                                    "Text": "Spec Text Font Size",
+                                                    "Property": "specTxtFontSize",
+                                                    "Value": "12px"
+                                                },
+                                                {
+                                                    "Text": "Specs Text Align",
+                                                    "Property": "specTxtAlign",
+                                                    "Value": "right"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
